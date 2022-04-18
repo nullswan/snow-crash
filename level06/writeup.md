@@ -45,3 +45,11 @@ level06@SnowCrash:~$ ./level06 /tmp/flag
 PHP Notice:  Undefined variable: Check flag.Here is your token : wiok45aaoguiboiki2tuin6ub
  in /home/user/level06/level06.php(4) : regexp code on line 1
 ```
+
+Perfect, let's head to level07.
+
+```bash
+level06@SnowCrash:~$ su level07
+Password: wiok45aaoguiboiki2tuin6ub
+level07@SnowCrash:~$ 
+```
