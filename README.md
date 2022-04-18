@@ -13,7 +13,7 @@
 | level06 | ✅ |
 | level07 | ✅ |
 | level08 | ✅ |
-| level09 | ❌ |
+| level09 | ✅ |
 
 ## Bonus
 
