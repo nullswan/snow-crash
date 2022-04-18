@@ -1,7 +1,7 @@
 # level00
 
-Intra video gave an hint on how to start.
-We are going to check which files level00 owns.
+Intra video provide hints on how to start.
+We are going to check which files flag00 owns.
 
 ```bash
 level00@SnowCrash:~$ find / -user flag00 2>/dev/null
