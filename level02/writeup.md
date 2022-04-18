@@ -92,14 +92,3 @@ flag02@SnowCrash:~$ su level03
 Password: kooda2puivaav1idi4f57q8iq
 level03@SnowCrash:~$
 ```
-
--- Found the following error, this may serve later.
-
-```bash
-flag02@SnowCrash:~$ get flag
-Sorry, command-not-found has crashed! Please file a bug report at:
-https://bugs.launchpad.net/command-not-found/+filebug
-Please include the following information with the report:
-
-command-not-found version: 0.2.44
-```
