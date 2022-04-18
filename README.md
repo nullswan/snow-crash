@@ -32,7 +32,7 @@ Note: ../100
 | Level   | State |
 | --------| -- |
 | level10 | ✅ |
-| level11 | ❌ |
+| level11 | ✅ |
 | level12 | ❌ |
 | level13 | ❌ |
 | level14 | ❌ |
