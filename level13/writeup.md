@@ -47,8 +47,6 @@ This GDB was configured as "i686-linux-gnu".
 For bug reporting instructions, please see:
 <http://bugs.launchpad.net/gdb-linaro/>...
 Reading symbols from /home/user/level13/level13...(no debugging symbols found)...done.
-(gdb) breakpoint getuid
-Undefined command: "breakpoint".  Try "help".
 (gdb) break getuid
 Breakpoint 1 at 0x8048380
 (gdb) run
