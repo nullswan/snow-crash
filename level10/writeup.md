@@ -59,7 +59,7 @@ Access comes after read, we will exploit [TOC/TOU](https://en.wikipedia.org/wiki
 Let's upload our scripts to the server.
 
 ```bash
-➜  level10 git:(main) ✗ scp -r -P 42421 ressources/ level10@localhost:/tmp/ressources
+➜  level10 git:(main) ✗ scp -r -P 4242 ressources/ level10@localhost:/tmp/ressources
            _____                      _____               _     
           / ____|                    / ____|             | |    
          | (___  _ __   _____      _| |     _ __ __ _ ___| |__  

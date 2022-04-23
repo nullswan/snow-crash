@@ -7,7 +7,7 @@ We will need wireshark (Intra recommends to use cloudshark) to see the packets.
 First, let's get the file on our machine.
 
 ```bash
-➜  ressources git:(main) ✗ scp -P 42421 level02@localhost:~/level02.pcap .
+➜  ressources git:(main) ✗ scp -P 4242 level02@localhost:~/level02.pcap .
        _____                      _____               _     
       / ____|                    / ____|             | |    
      | (___  _ __   _____      _| |     _ __ __ _ ___| |__  
